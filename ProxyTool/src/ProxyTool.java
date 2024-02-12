@@ -3,7 +3,6 @@ public class ProxyTool {
     // Controller
     // Scrapper
     // Checker
-    // Queue
 
     public static void main(String[] args) throws InterruptedException {
 
