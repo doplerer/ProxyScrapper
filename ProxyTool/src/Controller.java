@@ -1,6 +1,7 @@
 public class Controller {
 
-    // Queue
+    // Queue Checker
+    // Queue Scrapper
     // ProxyDAO
 
     public Controller(){
